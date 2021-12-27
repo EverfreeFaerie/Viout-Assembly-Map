@@ -113,7 +113,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"lobby"
+                 "value":"/@/rc3_21/lobby/floppy-landfill.json#start_viout"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -171,6 +171,12 @@
          "imagewidth":960,
          "margin":0,
          "name":"rc3-2021-mullana-utility",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0"
+                }],
          "spacing":0,
          "tilecount":1200,
          "tileheight":32,
