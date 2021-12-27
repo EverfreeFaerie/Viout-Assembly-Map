@@ -113,7 +113,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"/@/rc3_21/lobby/floppy-landfill.json#start_viout"
+                 "value":"world://lobby/floppy-landfill.json#start_viout"
                 }],
          "type":"tilelayer",
          "visible":true,
